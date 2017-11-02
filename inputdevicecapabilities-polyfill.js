@@ -161,7 +161,8 @@
         value: null,
         writable: false
       });
-      return evt;
     }
+
+    return evt;
   };
 })(this);
